@@ -1,0 +1,24 @@
+{
+    "name": "Lm_Talk",
+    "version": "0.0.1",
+    "icon": "fab fa-battle-net",
+    "category": "undefined",
+    "author": "milode",
+    "maintainers": [],
+    "desc": "Dumme gespraeche mit alice ueber fhem",
+    "aliceMinVersion": "1.0.0-b3",
+    "systemRequirements": [
+        ""
+    ],
+    "pipRequirements": [
+        ""
+    ],
+    "conditions": {
+        "lang": [
+            "en",
+            "de"
+        ],
+        "online": true,
+        "asrArbitraryCapture": true
+    }
+}
